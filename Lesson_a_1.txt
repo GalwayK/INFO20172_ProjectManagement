@@ -1,0 +1,13 @@
+Operation: Background activity without defined start or end.
+
+Project: Endevour with defined object, start time, and end time. 
+
+Projects: 
+	- Have a unique purpose. 
+	- Is temporary. 
+	- Drives change and enables value creation. 
+	- Is developed using progressive elaboration. 
+	- Should have a primary customer and sponsor. 
+	- Involves uncertainty. 
+
+Project mamagers work with project sponsors, teams, and other people involved in the project to achieve project goals. 
